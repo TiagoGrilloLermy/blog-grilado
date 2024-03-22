@@ -12,6 +12,7 @@
 
 #quemsou {
         padding: 20px;
+        height: 100vh;
 
 }
 
@@ -22,13 +23,18 @@
     object-position: center;
 }
 
+.time {
+    text-align: right;
+}
 
 
-#post1 {
+
+.post {
     border-radius: 15px;
     background-color: aliceblue;
     padding: 30px;
     border: solid 1px;
+    margin-bottom: 15px;
 }
 
 p {
